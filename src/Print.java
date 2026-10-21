@@ -38,3 +38,11 @@ void main() {
     // variable uses a data type with decimal parts).
 
 }
+System.out.println("helloworld");
+System.out.println("The robot knows where it is at all times.");
+System.out.println("It knows this because it knows where it isn't.");
+double pi=3.142857;
+int g=10;
+int mode=autonomous;
+System.out.println(pi+g+mode);
+double degrees=360
