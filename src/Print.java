@@ -46,3 +46,9 @@ int g=10;
 var mode="autonomous";
 System.out.println(pi+g+mode);
 double degrees=360
+
+    //a^2 + b^2 = C^2
+double a=5; // a side value
+double b=12; // b side value
+var c=0;
+System.out.println("c="+" "+Math.sqrt((a*a)+(b*b)))
